@@ -1,0 +1,18 @@
+1) brower - node
+        Ans: @- There are many object like "window","location","document" which are all used only in brower side.
+             @- Node.js is the runtime environment, which is server side programming
+2) The man was said about the how brower actually work?
+  Ans: @- The brower is parsing the element HTML and CSS and go to next level that is render.
+       @- js is doing main thing at the back of web page
+3) typeof(1) -number
+typeof(1.1)  - number
+typeof('1.1') -string
+typeof(true)  - boolean
+typeof(null)   - object
+typeof(undefined)-undefined
+typeof([])  - object
+typeof({})  - object
+typeof(NaN) - number
+
+
+ 5) prototype is a  object it inherit all methods , if it constructor, use __proto__ key word to add a new element to object
